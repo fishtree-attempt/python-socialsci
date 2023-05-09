@@ -55,7 +55,13 @@
     <loc>https://preview.carpentries.org/python-socialsci/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/python-socialsci/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/python-socialsci/discuss.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/python-socialsci/images.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/python-socialsci/index.html</loc>
@@ -115,16 +121,34 @@
     <loc>https://preview.carpentries.org/python-socialsci/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/python-socialsci/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/python-socialsci/instructor/discuss.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/python-socialsci/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/python-socialsci/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/python-socialsci/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/python-socialsci/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/python-socialsci/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/python-socialsci/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/python-socialsci/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/python-socialsci/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/python-socialsci/profiles.html</loc>
